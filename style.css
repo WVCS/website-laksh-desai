@@ -1,3 +1,16 @@
-body {
-
+body{
+  background-color: #E1C699;
+}
+h1{
+  font-size:300%;
+  letter-spacing: 2px;
+  color: #333333;
+}
+p{
+  font-size: 200%;
+  color: #333333;
+}
+img{
+  width: 500px;
+  border-style: ridge;
 }
