@@ -1,6 +1,30 @@
 body{
   background-color: #E1C699;
 }
+
+ul{
+list-style-type:none;
+  background-color:#99B4E1;
+  position:fixed;
+  width: 100vw;
+    top:0;
+    left:0;
+  padding:24px;
+  font-size: 20px;
+  text-align:left;
+  
+}
+li{
+  display: inline;
+  padding: 25px;
+}
+li a{
+   color: #333333;
+}
+li:hover{
+  background:white;
+}
+
 h1{
   font-size:300%;
   letter-spacing: 2px;
